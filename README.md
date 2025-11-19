@@ -70,9 +70,10 @@ endmodule
 
 **Output Timing Waveform**
 
-<img width="1920" height="1200" alt="fulladder" src="https://github.com/user-attachments/assets/3d915424-72f0-4d39-9229-d00a4f8c69fb" />
+<img width="1920" height="1200" alt="fulladd" src="https://github.com/user-attachments/assets/65124899-bcd2-4e1c-8f8a-1a2834892159" />
 
-<img width="1920" height="1200" alt="fullsub" src="https://github.com/user-attachments/assets/c8d27151-6d41-4088-9388-af7eea4625a3" />
+<img width="1920" height="1200" alt="fullsu" src="https://github.com/user-attachments/assets/c0c3d0ed-53b9-4ff7-957c-757ace2cd7f8" />
+
 
 
 **Result:**
