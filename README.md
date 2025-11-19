@@ -72,15 +72,22 @@ endmodule
 ```
 **RTL Schematic**
 Full adder
+
 <img width="1920" height="1200" alt="fulladder" src="https://github.com/user-attachments/assets/8ca2c35f-daab-4beb-acc7-b3bff0f3f951" />
+
 Full subractor
+
 <img width="1920" height="1200" alt="fullsub" src="https://github.com/user-attachments/assets/a729dc61-3bfe-4351-9ac5-6263a7d7e15c" />
 
 
 **Output Timing Waveform**
+
 Full adder
+
 <img width="1920" height="1200" alt="fulladd" src="https://github.com/user-attachments/assets/65124899-bcd2-4e1c-8f8a-1a2834892159" />
+
 Full subractor
+
 <img width="1920" height="1200" alt="fullsu" src="https://github.com/user-attachments/assets/c0c3d0ed-53b9-4ff7-957c-757ace2cd7f8" />
 
 
