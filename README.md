@@ -44,7 +44,7 @@ Full adder
 
 Full subractor
 
-<img width="300" height="179" alt="image" src="https://github.com/user-attachments/assets/34edb1b1-7043-4728-85e2-1a4c387ab2cd" />
+<img width="518" height="463" alt="image" src="https://github.com/user-attachments/assets/34edb1b1-7043-4728-85e2-1a4c387ab2cd" />
 
 **Procedure**
 
