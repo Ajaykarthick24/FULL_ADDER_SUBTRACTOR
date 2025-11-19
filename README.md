@@ -71,6 +71,7 @@ assign bout=(a&b)|(bin&(a^b));
 endmodule
 ```
 **RTL Schematic**
+
 Full adder
 
 <img width="1920" height="1200" alt="fulladder" src="https://github.com/user-attachments/assets/8ca2c35f-daab-4beb-acc7-b3bff0f3f951" />
