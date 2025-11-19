@@ -37,6 +37,10 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
+Full adder
+<img width="518" height="463" alt="image" src="https://github.com/user-attachments/assets/02301be1-7025-4d4f-8ea8-e09bbd0a837f" />
+Full subractor
+<img width="300" height="179" alt="image" src="https://github.com/user-attachments/assets/34edb1b1-7043-4728-85e2-1a4c387ab2cd" />
 
 **Procedure**
 
@@ -53,7 +57,7 @@ assign sum=(a^b^c);
 assign carry=(a&b)|(b&c)|(c&a);
 endmodule
 
-fullsub
+fullsubractor
 
 module fullsub(a,b,bin,dif,bout);
 input a,b,bin;
@@ -63,15 +67,16 @@ assign bout=(a&b)|(bin&(a^b));
 endmodule
 ```
 **RTL Schematic**
+Full adder
 <img width="1920" height="1200" alt="fulladder" src="https://github.com/user-attachments/assets/8ca2c35f-daab-4beb-acc7-b3bff0f3f951" />
-
+Full subractor
 <img width="1920" height="1200" alt="fullsub" src="https://github.com/user-attachments/assets/a729dc61-3bfe-4351-9ac5-6263a7d7e15c" />
 
 
 **Output Timing Waveform**
-
+Full adder
 <img width="1920" height="1200" alt="fulladd" src="https://github.com/user-attachments/assets/65124899-bcd2-4e1c-8f8a-1a2834892159" />
-
+Full subractor
 <img width="1920" height="1200" alt="fullsu" src="https://github.com/user-attachments/assets/c0c3d0ed-53b9-4ff7-957c-757ace2cd7f8" />
 
 
